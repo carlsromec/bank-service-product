@@ -1,4 +1,1 @@
-spring.application.name: accountbank-service
-spring.cloud.config.uri: http://localhost:9070
-spring.cloud.config.username: root
-spring.cloud.config.password: s0p0rt3
+spring:  application:    name: product-person-service  cloud:    config:      uri:      - http://localhost:9070      username: root      password: s0p0rt3
